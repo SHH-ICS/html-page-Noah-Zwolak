@@ -1,19 +1,17 @@
 body {
-    background-color: gray; 
+    background-color: rgb(193, 215, 218); 
 }
 h1 {
-    color: darkgoldenrod;
+    color: rgb(141, 214, 173);
     text-align: center;
     font-size: 50px;
 }
 p {
     color: rgb(188, 163, 36);
     font-size: 16px;
-    text-align: right;
+    text-align: center;
     font-weight: 200;
 }
-img {
-    text-align: right;
-}
-
-
+image {
+    border-image: fill;
+}  
